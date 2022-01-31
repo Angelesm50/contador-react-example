@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: black;
+  color: snow;
+}
+
+.num-positive {
+  color: green;
+}
+
+.num-negative {
+  color: tomato;
+}
+
+button {
+  margin: 1rem 0.5rem;
+  padding: 0.375rem;
+  border-radius: 5px;
+}
